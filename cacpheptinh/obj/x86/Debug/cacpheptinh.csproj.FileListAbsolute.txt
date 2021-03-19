@@ -1,0 +1,7 @@
+D:\TNgoc\cacpheptinh\cacpheptinh\obj\x86\Debug\cacpheptinh.Form1.resources
+D:\TNgoc\cacpheptinh\cacpheptinh\obj\x86\Debug\cacpheptinh.Properties.Resources.resources
+D:\TNgoc\cacpheptinh\cacpheptinh\obj\x86\Debug\cacpheptinh.csproj.GenerateResource.Cache
+D:\TNgoc\cacpheptinh\cacpheptinh\bin\Debug\cacpheptinh.exe
+D:\TNgoc\cacpheptinh\cacpheptinh\bin\Debug\cacpheptinh.pdb
+D:\TNgoc\cacpheptinh\cacpheptinh\obj\x86\Debug\cacpheptinh.exe
+D:\TNgoc\cacpheptinh\cacpheptinh\obj\x86\Debug\cacpheptinh.pdb
